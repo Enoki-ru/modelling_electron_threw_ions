@@ -1,0 +1,5 @@
+E:\Desktop\Jupiter\Remembering all\helping in C\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+E:\Desktop\Jupiter\Remembering all\helping in C\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Jupiter\Remembering all\helping in C\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+E:\Desktop\Jupiter\Remembering all\helping in C\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+E:\Desktop\Jupiter\Remembering all\helping in C\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
